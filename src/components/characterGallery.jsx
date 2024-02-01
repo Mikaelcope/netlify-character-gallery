@@ -1,5 +1,5 @@
 import characterData from '../data/characterData.json';
-import Character from './Character';
+import Character from './character';
 // This component should show all Characters defined in src\data\characterData.json file
 // Should render it as list of character component
 
